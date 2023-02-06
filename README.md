@@ -1,15 +1,16 @@
 ### Hi there 👋, 
 # My name is Hasibul Hayat
 
-I'll add something on here later.
+### Data Science | Analytics | Machine Learning | Deep Learning
 
-**Skills:** Data Analysis / Data Science / Machine Learning / Deep Learning
+> I am a Data Science enthusiast who's enjoying the never ending learning journey of this sector. <br>
+> I have good basics and understanding in Data Analytics, Machine Learning and Deep Learning.
 
-- 🔭 I’m currently working on this page. 
+> Currently, I am working on some projects to add on my portfolio.
 
+I am also proficient in tools like SQL, Excel, C, C++, Python and it's <br>
+libraries (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow, Keras, Pillow) etc.
 
-## **Social Links:** 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/hasibulhayat/)
 
 
 
