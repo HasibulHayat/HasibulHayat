@@ -1,15 +1,19 @@
 ### Hi there 👋, 
 # My name is Hasibul Hayat
 
-### Data Science | Analytics | Machine Learning | Deep Learning
+### Data Analyst | Data Engineer | Big Data | SQL | Python | Power BI | Excel
 
-> **I am a Data Science enthusiast who's enjoying the never ending learning journey of this sector.** <br>
-> **I have good basics and understanding in Data Analytics, Machine Learning and Deep Learning.**
+I am a self learned Data guy who's enjoying the never ending learning journey of this sector.
 
-> **Currently, I am working on some projects to add on my portfolio.**
+I have good basics and understanding in Data Analytics, Machine Learning and Deep Learning and recently started learning Data Engineering.
 
-> **I am also proficient in tools like SQL, Excel, C, C++, Python and it's** <br>
-> **libraries (NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow, Keras, Pillow) etc.**
+I am proficient in SQL (MySQL, SQL Server, PostgreSQL), Excel, Power BI, Tableau, Python, PyTorch, TensorFlow, sk-learn and many other related Python libraries (NumPy, pandas, Matplotlib, seaborn, Pillow etc ). I also have basics of Big Data, Hadoop, Spark, Hive etc.
+
+I have developed 6-7 Data Analysis projects and currently working on some Machine Learning and Data Engineering projects to add on my portfolio.
+
+I have solved over 200+ SQL problems and 50+ Python problems on sites like LeetCode, DataLemur, HackerRank, Geeks for Geeks etc.
+
+I also have finished over 20+ certifications regarding Data Analysis, ML/AI, Cloud etc.
 
 
 
