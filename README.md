@@ -1,7 +1,7 @@
 ### Hi there 👋, 
 # My name is Hasibul Hayat
 
-### Data Analyst | Data Engineer | Big Data | SQL | Python | Power BI | Excel
+### Data Analyst | Data Engineer | Big Data | SQL | Python | Power BI | AWS | Excel
 
 I am a self learned Data guy who's enjoying the never ending learning journey of this sector.
 
