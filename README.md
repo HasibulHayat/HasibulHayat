@@ -11,9 +11,9 @@ I am proficient in SQL (MySQL, SQL Server, PostgreSQL), Excel, Power BI, Tableau
 
 I have developed 6-7 Data Analysis projects and currently working on some Machine Learning and Data Engineering projects to add on my portfolio.
 
-I have solved over 200+ SQL problems and 50+ Python problems on sites like LeetCode, DataLemur, HackerRank, Geeks for Geeks etc.
+I have solved over 200+ SQL problems and 300+ Python problems on sites like LeetCode, DataLemur, HackerRank, Geeks for Geeks etc.
 
-I also have finished over 20+ certifications regarding Data Analysis, ML/AI, Cloud etc.
+I also have finished over 25+ certifications regarding Data, ML/AI, Cloud etc.
 
 
 
