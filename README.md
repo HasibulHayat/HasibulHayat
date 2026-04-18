@@ -63,7 +63,7 @@
 ## 💼 Experience
 
 ### Software Developer — Incepta Solutions (Remote)
-### Toronto, Canada
+** Toronto, Canada **
 
 *May 2025 – September 2025*
 
