@@ -2,8 +2,8 @@
 
 ### 📖 Backend Developer | Java | Spring Boot | PostgreSQL
 
-I build scalable backend systems with a focus on clean architecture, data integrity, and real-world business logic.
-I also have a background in data analysis and machine learning, which helps me design systems with a strong data perspective.
+* I build scalable backend systems with a focus on clean architecture, data integrity, and real-world business logic.
+* I also have a background in data analysis and machine learning, which helps me design systems with a strong data perspective.
 
 <br>
 
