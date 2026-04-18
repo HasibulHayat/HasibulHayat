@@ -9,7 +9,7 @@
 
 ## 📝 About Me
 
-* 💻 Backend engineer specializing in Java and Spring Boot
+* 💻 Backend engineer specializing in Java / Spring Boot and PostgreSQL
 * 🏗️ Design and build real-world backend systems with structured architecture and strong business logic
 * 🔐 Implement secure authentication and authorization using Spring Security and JWT
 * ⚡ Solved 400+ problems on LeetCode and 100+ on other platforms
