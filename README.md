@@ -15,7 +15,7 @@ I also have a background in data analysis and machine learning, which helps me d
 * ⚡ Solved 400+ problems on LeetCode and 100+ on other platforms
 * 📜 Completed 25+ certifications in Data, ML, and Cloud
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@ I also have a background in data analysis and machine learning, which helps me d
 
 * Git, Linux, Power BI, Excel, NoSQL
 
----
+<br>
 
 ## 🔥 Featured Project
 
@@ -58,7 +58,7 @@ I also have a background in data analysis and machine learning, which helps me d
 * Complex business rules (ownership %, lease validation, etc.)
 * Designed with clean architecture (Controller → Service → Repository)
 
----
+<br>
 
 ## 💼 Experience
 
@@ -70,7 +70,6 @@ I also have a background in data analysis and machine learning, which helps me d
 * Designed event-driven integrations between HubSpot and Slack, reducing manual effort by ~70%
 * Developed and maintained APIs using MuleSoft for a large-scale Canadian loyalty platform
 
----
 
 ### Junior Database Engineer — Algorithm Generation
 
@@ -84,5 +83,5 @@ I also have a background in data analysis and machine learning, which helps me d
 
 ## 📫 Connect With Me
 
-* LinkedIn: [your-link]
+* LinkedIn: [https://www.linkedin.com/in/hasibulhayat/]
 * Email: [hasibulhayathasib@gmail.com](mailto:hasibulhayathasib@gmail.com)
