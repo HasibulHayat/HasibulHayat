@@ -86,3 +86,11 @@
 
 * LinkedIn: [https://www.linkedin.com/in/hasibulhayat/]
 * Email: [hasibulhayathasib@gmail.com](mailto:hasibulhayathasib@gmail.com)
+
+<br>
+
+## 📊 GitHub Stats
+
+![Hasibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasibulHayat&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasibulHayat&layout=compact&theme=tokyonight)
