@@ -92,7 +92,7 @@
 
 ![Hasibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasibulHayat&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasibulHayat&layout=compact&theme=tokyonight&hide=cpp)
+
 
 
 
