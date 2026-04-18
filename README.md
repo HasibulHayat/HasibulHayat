@@ -9,11 +9,11 @@ I also have a background in data analysis and machine learning, which helps me d
 
 ## 📝 About Me
 
-* 💻 Backend-focused developer (Java + Spring Boot)
-* 🏗️ Built real-world backend applications with scalable design and structured architecture
-* 📊 Background in Data Analytics & Machine Learning
+* 💻 Backend engineer specializing in Java and Spring Boot
+* 🏗️ Design and build real-world backend systems with structured architecture and strong business logic
+* 🔐 Implement secure authentication and authorization using Spring Security and JWT
 * ⚡ Solved 400+ problems on LeetCode and 100+ on other platforms
-* 📜 Completed 25+ certifications in Data, ML, and Cloud
+* 📜 Completed 25+ certifications across Data, Machine Learning, and Cloud
 
 <br>
 
