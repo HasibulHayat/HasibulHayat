@@ -49,8 +49,7 @@
 ## 🔥 Featured Project
 
 ### 🏢 Apartment Easy - Building Management Syste
-### 🏢 Building Management System
-![BMS Repo](https://github-readme-stats.vercel.app/api/pin/?username=HasibulHayat&repo=BMS_V_5&theme=tokyonight)
+🔗 View Project[https://github.com/HasibulHayat/BMS_V_5]
 
 * Full-stack system for managing buildings, apartments, ownership, and leases
 * Role-based access control (SUPER_ADMIN, ADMIN, OWNER, RESIDENT)
