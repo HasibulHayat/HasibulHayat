@@ -63,7 +63,7 @@
 ## 💼 Experience
 
 ### Software Developer — Incepta Solutions (Remote)
-**Toronto, Canada**
+**Toronto, Ontario, Canada**
 
 *May 2025 – September 2025*
 
@@ -80,7 +80,7 @@
 * Built core modules of a multi-tenant e-commerce platform using PL/pgSQL
 * Optimized database performance using advanced SQL techniques and stored procedures
 
----
+<br>
 
 ## 📫 Connect With Me
 
