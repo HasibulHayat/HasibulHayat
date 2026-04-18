@@ -1,13 +1,13 @@
 # Hi 👋, I'm Hasibul Hayat
 
-### 🚀 Backend Developer | Java | Spring Boot | PostgreSQL
+### 📖 Backend Developer | Java | Spring Boot | PostgreSQL
 
 I build scalable backend systems with a focus on clean architecture, data integrity, and real-world business logic.
 I also have a background in data analysis and machine learning, which helps me design systems with a strong data perspective.
 
 <br>
 
-## 🧠 About Me
+## 📝 About Me
 
 * 💻 Backend-focused developer (Java + Spring Boot)
 * 🏗️ Built real-world backend applications with scalable design and structured architecture
