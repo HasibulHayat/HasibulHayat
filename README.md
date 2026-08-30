@@ -158,8 +158,3 @@ The system is designed around real business requirements, with validation and da
 
 <br>
 
-## 📊 GitHub Stats
-
-![Hasibul's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasibulHayat\&show_icons=true\&theme=tokyonight\&hide=stars,issues,contribs\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasibulHayat\&layout=compact\&theme=tokyonight)
