@@ -99,6 +99,8 @@ The system is designed around real business requirements, with validation and da
 
 <br>
 
+# 💼 Professional Experience
+
 ### Software Engineer — Property Management Platform
 
 **Woodland Solutions | Bangladesh | 2025 – Present**
@@ -112,8 +114,6 @@ The system is designed around real business requirements, with validation and da
 * Managed application deployment and production infrastructure using **Linux, Nginx, PostgreSQL, HTTPS/SSL, and system services**.
 * Worked directly with client requirements and translated real-world business processes into reliable software features.
 * Maintained and improved production systems based on operational requirements and client feedback.
-
-# 💼 Professional Experience
 
 ### Software Developer — Incepta Solutions
 
