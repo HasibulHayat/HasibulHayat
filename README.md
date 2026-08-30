@@ -19,7 +19,7 @@ I've worked on production software professionally, including remote development 
 * 🔌 Experience building integrations and automations using **MuleSoft, Workato, HubSpot, and Slack APIs**
 * 🧠 Solved **400+ problems on LeetCode** and 100+ on other platforms
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -67,7 +67,7 @@ I've worked on production software professionally, including remote development 
 * PyTorch
 * Matplotlib
 
----
+<br>
 
 # 🚀 Featured Project
 
@@ -110,9 +110,6 @@ The system is designed around real business requirements, with validation and da
 
 <br>
 
----
-<br>
-
 ### Software Engineer — Property Management Platform
 
 **Woodland Solutions | Bangladesh | 2025 – Present**
@@ -147,34 +144,14 @@ The system is designed around real business requirements, with validation and da
 * Built core modules of a multi-tenant e-commerce platform using **PL/pgSQL**
 * Worked extensively with PostgreSQL, SQL optimization, database logic, and stored procedures
 
----
-
-# 📚 Other Projects
-
-### Instagram Data Modelling & Analytics
-
-**SQL Server · SSMS · Data Modeling · SQL**
-
-* Designed a relational database model using normalization and data-modelling techniques
-* Imported and analyzed data using SQL Server
-* Developed complex SQL queries for analysis
-
-### Supermarket ETL Pipeline & Data Warehouse
-
-**Power Query · Excel · Data Warehousing**
-
-* Built an ETL pipeline to extract and transform CSV data
-* Designed a dimensional data model
-* Created analytical queries to answer business questions
-
----
+<br>
 
 # 🧠 Problem Solving
 
 * **400+** LeetCode problems solved
 * **100+** problems solved on other competitive programming platforms
 
----
+<br>
 
 # 📜 Certifications
 
@@ -182,7 +159,7 @@ The system is designed around real business requirements, with validation and da
 * Google Data Analytics Specialization — Coursera
 * 25+ certifications across Data, Machine Learning, Cloud, and related technologies
 
----
+<br>
 
 # 📫 Connect With Me
 
@@ -190,7 +167,7 @@ The system is designed around real business requirements, with validation and da
 * 📧 Email: [hasibulhayathasib@gmail.com](mailto:hasibulhayathasib@gmail.com)
 * 💻 GitHub: [github.com/HasibulHayat](https://github.com/HasibulHayat)
 
----
+<br>
 
 ## 📊 GitHub Stats
 
