@@ -108,9 +108,24 @@ PostgreSQL
 
 The system is designed around real business requirements, with validation and database constraints used to maintain data integrity.
 
-🔗 **[View Project](https://github.com/HasibulHayat/BMS_V_5)**
+<br>
 
 ---
+<br>
+
+### Software Engineer — Property Management Platform
+
+**Woodland Solutions | Bangladesh | 2025 – Present**
+
+* Built and deployed a production property management platform using **Java, Spring Boot, PostgreSQL, Spring Security, and JWT**, currently serving **4 paying clients**.
+* Developed core modules for **property and unit management, ownership, collections, expenses, users, role management, and reporting**.
+* Designed and implemented **RESTful APIs** using a layered architecture with Controller, Service, Repository, Entity, and DTO components.
+* Implemented secure authentication and **role-based access control** using Spring Security and JWT.
+* Designed relational database schemas and implemented business rules and validation to maintain **data integrity across property, ownership, financial, and user workflows**.
+* Built client-specific production deployments while maintaining a shared application architecture and codebase.
+* Managed application deployment and production infrastructure using **Linux, Nginx, PostgreSQL, HTTPS/SSL, and system services**.
+* Worked directly with client requirements and translated real-world business processes into reliable software features.
+* Maintained and improved production systems based on operational requirements and client feedback.
 
 # 💼 Professional Experience
 
