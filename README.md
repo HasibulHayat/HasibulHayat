@@ -6,7 +6,11 @@ I build backend systems and business applications with a focus on **clean archit
 
 I've worked on production software professionally, including remote development for a Canadian company, and built a **property management platform that has been deployed for 4 paying clients**.
 
+<br>
+
 ---
+
+<br>
 
 ## 👨‍💻 About Me
 
