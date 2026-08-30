@@ -8,10 +8,6 @@ I've worked on production software professionally, including remote development 
 
 <br>
 
----
-
-<br>
-
 ## 👨‍💻 About Me
 
 * 💻 Backend Software Engineer specializing in **Java, Spring Boot, and PostgreSQL**
