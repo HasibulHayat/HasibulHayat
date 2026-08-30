@@ -94,17 +94,6 @@ A production property management platform built to manage real-world property op
 * 🛡️ Global exception handling and structured API responses
 * 🚀 Production deployment and server management
 
-### Architecture
-
-```text
-Controller
-    ↓
-Service
-    ↓
-Repository
-    ↓
-PostgreSQL
-```
 
 The system is designed around real business requirements, with validation and database constraints used to maintain data integrity.
 
