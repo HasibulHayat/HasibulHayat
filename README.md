@@ -186,7 +186,7 @@ I focus on implementing security controls as part of application architecture ra
 
 ## 💼 Professional Experience
 
-### Software Engineer — Woodland Solutions
+### Software Engineer & Founder — Woodland Solutions
 **October 2025 – Present | Bangladesh**
 
 - Developed and commercialized Property Management and Apartment Management Systems, securing five paying clients across both products.
